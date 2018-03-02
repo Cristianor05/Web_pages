@@ -1,0 +1,41 @@
+
+		BODY{
+
+			background-color: #0ccfff
+		}
+
+		h1 a{
+			color:7e9f19;
+			text-decoration: none;
+		}
+
+		h1 a:hover{
+			color: #fff;
+			background-color: #7E9F19
+			text-decoration: none;
+		}
+
+		.container{
+			margin: 0 auto;
+			width: 960px;
+
+		}
+
+		.place{
+			
+			BORDER: 1PX SOLID #CCC;
+			margin-bottom: 20PX;
+			padding: 10PX;
+			background-color: white;
+		}
+
+		.place h2{
+
+			border-bottom: 1PX DASHED #7E9F19
+		}
+
+		.place a{
+
+			color: #000000
+			font-weight:bold;
+		}
